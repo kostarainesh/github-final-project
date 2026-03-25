@@ -1,4 +1,4 @@
 theia@theia-kostarainesh:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
-* bug-fix-revert 817185a [origin/bug-fix-revert] Revert "fixed year to 23"
-  bug-fix-typo   4e5d484 [origin/bug-fix-typo] fixed year to 23
-  main           a067739 [origin/main: ahead 3] Revert "revert bug fix"
+* bug-fix-revert b4e97b0 Revert "fix again 22->23"
+  bug-fix-typo   6ff13dd fix again 22->23
+  main           6ff13dd [origin/main: ahead 1] fix again 22->23
